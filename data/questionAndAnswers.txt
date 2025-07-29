@@ -1,0 +1,4 @@
+Qno|Question Description|Answer_blueprint|Max Marks
+1|What is the capital of France?|Paris|2
+2|What is 2+2?|4|1
+3|em ba |super ba|50
